@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/create_account/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/list_moderation/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/list_ownership/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/manage_subscriptions/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/request_new_list/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/mailing-lists/subscribe_without_account/</loc>
+         <lastmod>2024-12-10</lastmod>
+    </url>
+</urlset>
