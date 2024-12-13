@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
     </url>
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/advanced_functions/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
     </url>
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/becoming_familiar/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
     </url>
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/creating_account/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
+    </url>
+    <url>
+         <loc>https://icos-carbon-portal.github.io/fileshare/enable_2fa/</loc>
+         <lastmod>2024-12-13</lastmod>
     </url>
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/managing_data/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
     </url>
     <url>
          <loc>https://icos-carbon-portal.github.io/fileshare/sharing_data/</loc>
-         <lastmod>2024-12-10</lastmod>
+         <lastmod>2024-12-13</lastmod>
     </url>
 </urlset>
